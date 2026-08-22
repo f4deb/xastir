@@ -15,11 +15,11 @@
 - Selectionnez l'onglet "Packet IO" et mettez les memes parametres
 ![alt](packetIO.png)
 
-- Selectionnez l'onglet "AX25 Channel Access" et mettez les memes parametres
-![alt](AX25ChannelAccess.png)
-
 - Selectionnez l'onglet "AX25 IO" et mettez les memes parametres
 ![alt](AX25IO.png)
+
+- Selectionnez l'onglet "AX25 Channel Access" et mettez les memes parametres
+![alt](AX25ChannelAccess.png)
 
 ## Configuration de Xastir
 ![alt](interfaceControl.png)
