@@ -1,3 +1,5 @@
-# Configuration de Xastir  pour utilisation à distance
+# Configuration de Xastir  via Soundmodem
 
-  Param
+## Configuration de Xastir
+
+## Configuration de Soundmodem
