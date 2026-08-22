@@ -21,6 +21,9 @@
 - Selectionnez l'onglet "AX25 Channel Access" et mettez les memes parametres
 ![alt](AX25ChannelAccess.png)
 
+- Lancer Soundmodem
+![alt](startSoundmodem.png)
+
 ## Configuration de Xastir avec Soundmodem
 ![alt](interfaceControl.png)
 
