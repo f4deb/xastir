@@ -28,5 +28,7 @@
 ## Configuration de Xastir avec Soundmodem
 ![alt](interfaceControl.png)
 
+## Configuration de Xastir avec Soundmodem
+![alt](interfaceControlPI.png)
 
-
+![alt](configureAgwpePi.png)
