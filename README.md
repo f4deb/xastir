@@ -32,3 +32,10 @@
 ![alt](interfaceControlPI.png)
 
 ![alt](configureAgwpePi.png)
+
+##Configuration Direwolf
+- Ligne 137 -> indicatif
+- ligne 75  -> peripherique audio
+- ligne 190 -> PTT
+- ligne 246 -> Port reseau
+- ligne 286 -> messages
