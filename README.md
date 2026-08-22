@@ -33,7 +33,7 @@
 
 ![alt](configureAgwpePi.png)
 
-##Configuration Direwolf
+## Configuration Direwolf
 - Ligne 137 -> indicatif
 - ligne 75  -> peripherique audio
 - ligne 190 -> PTT
