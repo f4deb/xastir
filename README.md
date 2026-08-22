@@ -4,6 +4,7 @@
  - Lancer le configurateur :
 ![alt](soundmodemConfig.png)
 - Cette fenetre s'affiche
+  
 ![alt](soundmodemConfigurator.png)
 - Selectionnez l'onglet "modulator" et mettez les meme parametres
 ![alt](modulator.png)
